@@ -1,0 +1,19 @@
+https://www.kaggle.com/alexcherniuk/imdb-review-word2vec-bilstm-99-acc/notebook
+
+https://www.kaggle.com/bilalshahidqureshi/nlp-word2vec-07934b
+
+https://www.kaggle.com/manishvi/named-entity-recognition-with-rnn/data
+
+"Dial 100"
+
+https://github.com/abhishek111
+
+https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada
+
+https://www.nltk.org/book/ch07.html#ex-ie4
+
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+
+https://www.guru99.com/word-embedding-word2vec.html
+
+https://github.com/nxs5899/Named-Entity-Recognition_DeepLearning-keras
