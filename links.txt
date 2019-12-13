@@ -19,3 +19,5 @@ https://www.guru99.com/word-embedding-word2vec.html
 https://github.com/nxs5899/Named-Entity-Recognition_DeepLearning-keras
 
 https://www.kaggle.com/abhi111/naive-bayes-baseline-and-logistic-regression/notebook
+
+https://github.com/keras-team/keras/tree/master/examples
