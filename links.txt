@@ -17,3 +17,5 @@ https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 https://www.guru99.com/word-embedding-word2vec.html
 
 https://github.com/nxs5899/Named-Entity-Recognition_DeepLearning-keras
+
+https://www.kaggle.com/abhi111/naive-bayes-baseline-and-logistic-regression/notebook
